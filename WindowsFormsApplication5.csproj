@@ -83,6 +83,9 @@
   <ItemGroup>
     <None Include="Resources\bodas-de-plata-invitacion-ideas.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\438962d285c90130d3ea864adf70e269.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
